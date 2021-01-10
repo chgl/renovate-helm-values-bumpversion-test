@@ -1,0 +1,4 @@
+image:
+  registry: docker.io
+  repository: postgres
+  tag: 12.3
