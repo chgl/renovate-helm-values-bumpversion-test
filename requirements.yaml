@@ -1,0 +1,5 @@
+dependencies:
+  - name: acs-engine-autoscaler
+    version: 2.1.4
+    repository: stable
+    condition: acs-engine-autoscaler.enabled
