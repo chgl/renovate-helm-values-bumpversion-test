@@ -2,7 +2,7 @@ apiVersion: v2
 name: renovate-helmv3-test
 description: A Helm chart for testing renovate helmv3
 type: application
-version: 0.1.0
+version: 0.1.1
 dependencies:
   - name: postgresql-ha
     version: 3.3.1
