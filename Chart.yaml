@@ -8,3 +8,7 @@ dependencies:
     version: 3.3.1
     repository: https://charts.bitnami.com/bitnami
     condition: postgresql-ha.enabled
+  - name: acs-engine-autoscaler
+    version: 2.1.4
+    repository: stable
+    condition: acs-engine-autoscaler.enabled
